@@ -19,3 +19,9 @@ Superstore retail dataset
 - Revenue trends highlight seasonal demand
 - A small number of products drive significant sales
 - Repeat customers contribute heavily to order volume
+
+## Advanced SQL Skills Demonstrated
+- Joins across multiple tables
+- Window functions (RANK, running totals)
+- Common Table Expressions (CTEs)
+- Aggregations and business metrics
